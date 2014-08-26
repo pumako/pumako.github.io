@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: post
 title: Example content
-twitter: False 
+twitter_add: False 
 comments: True
 ---
 
