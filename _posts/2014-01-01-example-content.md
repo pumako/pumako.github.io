@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Example content
-twitter: TRUE
-comments: TRUE
+twitter_add: False 
+comments: True
 ---
 
 
