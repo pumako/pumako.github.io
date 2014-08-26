@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Miguel
 tagline:          'was here'
-description:      'Another try for making a website for my thoughts. Made by <a href="https://twitter.com/miguelglhf" target="_blank">@miguelglhf</a> using <a href="http://jekyllrb.com" target="_blank">Jekyll</a> and <a href="http://lanyon.getpoole.com" target="_blank">Poole+Lanyon</a>.'
+description:      'Another try for making a website for my thoughts. Posting in English and sometimes in Spanish. Made by <a href="https://twitter.com/miguelglhf" target="_blank">@miguelglhf</a> using <a href="http://jekyllrb.com" target="_blank">Jekyll</a> and <a href="http://lanyon.getpoole.com" target="_blank">Poole+Lanyon</a>.'
 url:              
 baseurl:          '/'
 paginate:         5
