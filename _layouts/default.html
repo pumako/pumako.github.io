@@ -21,8 +21,13 @@
 
       <div class="container content">
         {{ content }}
+        {% if page.twitter % }
         {% include twitter_add.html %}
+        {% endif %}
+
+        {% if page.comments % }
         {% include comments.html %}
+        {% endif %}
       </div>
     </div>
 
