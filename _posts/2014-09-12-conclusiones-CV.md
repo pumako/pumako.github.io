@@ -28,12 +28,12 @@ Y he aqui mi lista de observaciones, algunas pueden ser típicas, otras pueden s
 * *Dejar claro lo que has estudiado*. En el caso de Ing. Telecomunicación no es tan fácil ya que no siempre hay un equivalente directo. Importan los detalles: intensificación, ejemplos de asignaturas, etc.
 * La pluridisciplinaridad de Teleco es un plus pero puede llevar a confusión, cuidado al intentar vender el ingeniero-para-todo(en dos ocasiones me pidieron un listado de notas para comprobar que de verdad estudiamos todo lo que hemos estudiado).
 
-* Yo no tengo titulo de idiomas. No es obligatorio tener un papelito, lo importante es que te puedas desenvolver bien.
+* Yo no tengo título de idiomas. No es obligatorio tener un papelito, lo importante es que te puedas desenvolver bien.
 * Aunque el Proficiency otorgue un nivel C2, en otros países un C2 es el nivel de un nativo o de alguien con 10+ años viviendo en ese país. Un B2 o un C1 ya se suelen considerar muy buen nivel.
 
-* No pongas una sección con unas frases descriptivas sobre tus objetivos, como eres, como trabajas y lo motivado que estás. Para esa evaluación están los de recursos humanos. Tu lo que tienes que aportar son pruebas, y ellos sacarán sus conclusiones.
+* No pongas una sección con unas frases descriptivas sobre tus objetivos, como eres, como trabajas y lo motivado que estás. Para esa evaluación están ya los de recursos humanos. Tu lo que tienes que aportar son pruebas, y ellos sacarán sus conclusiones.
 * Hobbies no. No suele interesar lo que haces en tu tiempo libre ni da mejor impresión(al final todo el mundo corre, hace bici y lee libros). Salvo que sea algo que pudieras añadir a una sección de educación adicional como puede ser conservatorio con tal instrumento o trastear con cacharros de electrónica.
 
 * **Y siempre, siempre el CV acompañado de la carta de presentación**. A veces sólo leeran el CV, a veces sólo la carta.
 
-Para la próxima me dejo una lista de detalles sobre la carta y sobre recursos o maneras de buscar trabajo en internet(simplemente detalles de algunas páginas web útiles).
+Para la próxima me dejo una lista de detalles sobre la carta y sobre recursos o maneras de buscar trabajo en internet (simplemente detalles de algunas páginas web útiles).
