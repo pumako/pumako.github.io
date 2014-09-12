@@ -13,7 +13,7 @@ Los procesos de selección suelen ser largos y eso hay que tenerlo en cuenta. Tr
 
 Y he aqui mi lista de observaciones, algunas pueden ser típicas, otras pueden ser detalles muy sencillos. Sólo espero que algunas os puedan ser de utilidad. Los detalles no te consiguen el trabajo pero ayudan mucho a no partir en desventaja frente a otras personas. Un curriculum cuidado destaca.
 
-* No hay que desviarse del objetivo principal del CV: *conseguir una entrevista*. Que no siempre es lo mismo que: escribir todo lo que he hecho. Si no es relevante, en ocasion es mejor omitirlo.
+* No hay que desviarse del objetivo principal del CV: *conseguir una entrevista*. Que no siempre es lo mismo que: escribir todo lo que he hecho. Si no es relevante, en ocasiones es mejor omitirlo.
 * Siempre (o casi) personalizado. Si es un puesto de electrónica, enfocar los ejemplos de asignaturas/tareas que se ha tenido en ese tema. La descripción de un puesto publicado es una especie de lista de puntos a cumplir. De alguna forma u otra, *cada punto que la empresa pide tiene que estar respondido en el CV o en la carta de presentación*.
 * Una cara, sí o sí. Muy interesante tendría que ser lo que pongas en la primera para que pasen a la segunda, y aun así a veces no lo harán.
 * Formato *sencillo*. Destacar cosas en negrita y subrayando, sin abusar. No uses tablas que los programas robot que escanean los CV tienen muchos problemas con ello.
