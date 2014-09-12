@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Busqueda de trabajo - Conclusiones CV
-twitter_add: True 
+twitter: True 
 comments: True
 ---
 
@@ -13,32 +13,27 @@ Los procesos de selección suelen ser largos y eso hay que tenerlo en cuenta. Tr
 
 Y he aqui mi lista de observaciones, algunas pueden ser típicas, otras pueden ser detalles muy sencillos. Sólo espero que algunas os puedan ser de utilidad. Los detalles no te consiguen el trabajo pero ayudan mucho a no partir en desventaja frente a otras personas. Un curriculum cuidado destaca.
 
-*No hay que desviarse del objetivo principal del CV: conseguir una entrevista. Que no siempre es lo mismo que: escribir todo lo que he hecho. Si no es relevante, en ocasion es mejor omitirlo.
-*Siempre (o casi) personalizado. Si es un puesto de electrónica, enfocar los ejemplos de asignaturas/tareas que se ha tenido en ese tema. La descripción de un puesto publicado es una especie de lista de puntos a cumplir. De alguna forma u otra, cada punto que la empresa pide tiene que estar respondido en el CV o en la carta de presentación.
-*Una cara, si o si. Muy interesante tendría que ser lo que pongas en la primera para que pasen a la segunda, y aun así a veces no lo harán.
-*Formato sencillo. Destacar cosas en negrita y subrayando, sin abusar. No uses tablas que los programas robot que escanean los CV tienen muchos problemas con ello.
-*El formato pdf está muy bien, pero muchas veces te pedirán que les envies un CV en .doc. Siempre recomiendo tener una versión simple en .txt, si el CV es claro, incluso sin formato se vende solo.
+* No hay que desviarse del objetivo principal del CV: conseguir una entrevista. Que no siempre es lo mismo que: escribir todo lo que he hecho. Si no es relevante, en ocasion es mejor omitirlo.
+* Siempre (o casi) personalizado. Si es un puesto de electrónica, enfocar los ejemplos de asignaturas/tareas que se ha tenido en ese tema. La descripción de un puesto publicado es una especie de lista de puntos a cumplir. De alguna forma u otra, cada punto que la empresa pide tiene que estar respondido en el CV o en la carta de presentación.
+* Una cara, sí o sí. Muy interesante tendría que ser lo que pongas en la primera para que pasen a la segunda, y aun así a veces no lo harán.
+* Formato sencillo. Destacar cosas en negrita y subrayando, sin abusar. No uses tablas que los programas robot que escanean los CV tienen muchos problemas con ello.
+* El formato pdf está muy bien, pero muchas veces te pedirán que les envies un CV en .doc. Siempre recomiendo tener una versión simple en .txt, si el CV es claro, incluso sin formato se vende solo.
 
-*Empezar el CV con nombre y título (en vez de lo que más se ve de sólo el nombre) "Miguel Gallego - Ing. de Telecomunicación". Ayuda mucho a los de recursos humanos cuando hacen un primer vistazo. Ayuda mucho más de lo que se pueda pensar.
-*Si buscas trabajo fuera no tiene ningun sentido poner tu dirección española.
-*En algunos paises  es mejor no poner fecha de nacimiento/foto/género por temas de discriminación. Cuidado con ello y además son datos que en todo caso pedirán después cuando sea necesario.
-*Como forma de contacto sólo teléfono, email y si quieres, perfil de LinkedIn (que es una especie de CV extendido).
-*Puede ser útil comprarse una SIM prepago de alguno de los países en los que estemos interesados para ponerlo en el CV. Motiva mucho más a las empresas a llamar. Yo tengo una Giffgaff inglesa y una Symacom francesa.
+* Empezar el CV con nombre y título (en vez de lo que más se ve de sólo el nombre) "Miguel Gallego - Ing. de Telecomunicación". Ayuda mucho a los de recursos humanos cuando hacen un primer vistazo. Ayuda mucho más de lo que se pueda pensar.
+* Si buscas trabajo fuera no tiene ningun sentido poner tu dirección española.
+* En algunos paises  es mejor no poner fecha de nacimiento/foto/género por temas de discriminación. Cuidado con ello y además son datos que en todo caso pedirán después cuando sea necesario.
+* Como forma de contacto sólo teléfono, email y si quieres, perfil de LinkedIn (que es una especie de CV extendido).
+* Puede ser útil comprarse una SIM prepago de alguno de los países en los que estemos interesados para ponerlo en el CV. Motiva mucho más a las empresas a llamar. Yo tengo una Giffgaff inglesa y una Symacom francesa.
 
-*Dejar claro lo que has estudiado. En el caso de Ing. Telecomunicación no es tan fácil ya que no siempre hay un equivalente directo. Importan los detalles: intensificación, ejemplos de asignaturas, etc.
-*La pluridisciplinaridad de Teleco es un plus pero puede llevar a confusión, cuidado al intentar vender el ingeniero-para-todo(en dos ocasiones me pidieron un listado de notas para comprobar que de verdad estudiamos todo lo que hemos estudiado).
+* Dejar claro lo que has estudiado. En el caso de Ing. Telecomunicación no es tan fácil ya que no siempre hay un equivalente directo. Importan los detalles: intensificación, ejemplos de asignaturas, etc.
+* La pluridisciplinaridad de Teleco es un plus pero puede llevar a confusión, cuidado al intentar vender el ingeniero-para-todo(en dos ocasiones me pidieron un listado de notas para comprobar que de verdad estudiamos todo lo que hemos estudiado).
 
-*Yo no tengo titulo de idiomas. No es obligatorio tener un papelito, lo importante es que te puedas desenvolver bien.
-*Aunque el Proficiency otorgue un nivel C2, en otros países un C2 es el nivel de un nativo o de alguien con 10+ años viviendo en ese país. Un B2 o un C1 ya se suelen considerar muy buen nivel.
+* Yo no tengo titulo de idiomas. No es obligatorio tener un papelito, lo importante es que te puedas desenvolver bien.
+* Aunque el Proficiency otorgue un nivel C2, en otros países un C2 es el nivel de un nativo o de alguien con 10+ años viviendo en ese país. Un B2 o un C1 ya se suelen considerar muy buen nivel.
 
-*No pongas una sección con unas frases descriptivas sobre tus objetivos, como eres, como trabajas y lo motivado que estás. Para esa evaluación están los de recursos humanos. Tu lo que tienes que aportar son pruebas, y ellos sacarán sus conclusiones.
-*Hobbies no. No suele interesar lo que haces en tu tiempo libre ni da mejor impresión(al final todo el mundo corre, hace bici y lee libros). Salvo que sea algo que pudieras añadir a una sección de educación adicional como puede ser conservatorio con tal instrumento o trastear con cacharros de electrónica.
+* No pongas una sección con unas frases descriptivas sobre tus objetivos, como eres, como trabajas y lo motivado que estás. Para esa evaluación están los de recursos humanos. Tu lo que tienes que aportar son pruebas, y ellos sacarán sus conclusiones.
+* Hobbies no. No suele interesar lo que haces en tu tiempo libre ni da mejor impresión(al final todo el mundo corre, hace bici y lee libros). Salvo que sea algo que pudieras añadir a una sección de educación adicional como puede ser conservatorio con tal instrumento o trastear con cacharros de electrónica.
 
-*Y siempre, siempre el CV acompañado de la carta de presentación. A veces sólo leeran el CV, a veces sólo la carta.
+* Y siempre, siempre el CV acompañado de la carta de presentación. A veces sólo leeran el CV, a veces sólo la carta.
 
 Para la próxima me dejo una lista de detalles sobre la carta y sobre recursos o maneras de buscar trabajo en internet(simplemente detalles de algunas páginas web útiles).
-
-
------
-
-
